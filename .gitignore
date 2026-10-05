@@ -1,0 +1,7 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+.pf.pid
+.pf2.pid
+__pycache__/
